@@ -47,7 +47,7 @@ The simulation focused on practical Internal Audit within Goldman Sachs' Global 
 ## Repository Contents
 
 - Internship_Report_Bhaskar_Kumar.pdf
-- PPT_Goldman_Sachs_Internal_Audit_Bhaskar.pdf
+- PPT_Goldman_Sachs_Internal_Audit_Bhaskar.pptx
 - Goldman_Sachs_Internal_Audit_Certificate.pdf
 
 ---
